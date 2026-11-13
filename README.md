@@ -10,7 +10,7 @@
 <img width="1500" height="500" alt="Lunement-Station-Preview" src="https://github.com/user-attachments/assets/3c0a9714-6970-453c-adc4-299fa58210c0" />
 
 
-## Work, work and work!
+## Work, study and create in one place!
 
 **Lunement Station** is a way to make your business more effective, using distraction-free methods!
 It offers the kiosk-style workspace for Windows 11 - the most widely used OS in enterprise sphere!
