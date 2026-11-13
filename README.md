@@ -11,7 +11,7 @@
 
 ## Work, work and work!
 
-**Lunement Station** is a way to make your bussiness more productive, using methods of non-distraction!
+**Lunement Station** is a way to make your bussiness more effective, using methods of non-distraction!
 
 ### Key Features
 - Fluent UI
