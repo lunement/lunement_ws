@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Early_development-orange)
 ![Last release](https://img.shields.io/badge/Last_release-None-red)
 
-<img width="1500" height="500" alt="Lunement-Station-Preview" src="https://github.com/user-attachments/assets/3c0a9714-6970-453c-adc4-299fa58210c0" />
+<img width="1500" height="500" alt="Lunement-Station-Preview" src="https://github.com/user-attachments/assets/83bdd7d9-2aac-4651-b72f-ab1cd03bb993" />
 
 
 ## Work, study and create in one place!
